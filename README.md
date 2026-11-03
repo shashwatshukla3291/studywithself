@@ -6,7 +6,7 @@ A four-step study planner that helps turn one overwhelming task into a focused w
 
 Add your GitHub Pages link here after publishing. If your GitHub username is `shashwatshukla3291` and the repository is named `study-sprint`, the URL will be:
 
-`https://shashwatshukla3291.github.io/study-sprint/`
+https://shashwatshukla3291.github.io/studywithself/
 
 ## What it does
 
